@@ -1,0 +1,36 @@
+{
+    "name": "jm-inc/laravel-viewable",
+    "description": "A simple Laravel package to count views for models.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Moses",
+            "email": "work@xmoses.com"
+        }
+    ],
+    "require": {
+        "hisorange/browser-detect": "^4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "JM\\Viewable\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "JM\\Viewable\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "JM\\Viewable\\ViewableServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
