@@ -1,3 +1,6 @@
+# Laravel Viewable
+A simple Laravel package to count views for models.
+
 ## Installation
 ```bash
 composer require jm-inc/laravel-viewable
