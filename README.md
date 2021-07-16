@@ -1,5 +1,5 @@
 # Laravel Viewable
-A simple Laravel package to count views for models.
+A simple Laravel 8 package to count views for models.
 
 ## Installation
 ```bash
