@@ -47,5 +47,3 @@ class PostController extends Controller
     }
 }
 ```
-## TODO
-- Tests

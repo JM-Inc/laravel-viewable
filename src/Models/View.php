@@ -15,7 +15,9 @@ class View extends Model
 
     public function user()
     {
-        return $this->belongsTo('App\Models\User');
+        return $this->belongsTo(
+            config('viewable.user_model')
+        );
     }
 
     public function viewable()

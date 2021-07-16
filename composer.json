@@ -11,6 +11,9 @@
     "require": {
         "hisorange/browser-detect": "^4.4"
     },
+    "require-dev": {
+        "orchestra/testbench": "^6.19"
+    },
     "autoload": {
         "psr-4": {
             "JM\\Viewable\\": "src"
