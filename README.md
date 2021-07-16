@@ -1,4 +1,10 @@
 # Laravel Viewable
+
+[![Latest Stable Version](http://poser.pugx.org/jm-inc/laravel-viewable/v)](https://packagist.org/packages/jm-inc/laravel-viewable)
+[![GitHub license](https://img.shields.io/github/license/JM-Inc/laravel-viewable)](https://github.com/JM-Inc/laravel-viewable/blob/main/LICENSE.md)
+![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/jm-inc/laravel-viewable/run-tests?label=tests)
+![Total Downloads](https://img.shields.io/packagist/dt/jm-inc/laravel-viewable)
+
 A simple Laravel 8 package to count views for models.
 
 ## Installation

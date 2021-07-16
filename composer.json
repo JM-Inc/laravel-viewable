@@ -1,6 +1,6 @@
 {
     "name": "jm-inc/laravel-viewable",
-    "description": "A simple Laravel package to count views for models.",
+    "description": "A simple Laravel 8 package to count views for models.",
     "license": "MIT",
     "authors": [
         {
